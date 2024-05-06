@@ -1,2 +1,0 @@
-# adrianof
-gerador de senhas
